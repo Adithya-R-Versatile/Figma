@@ -73,6 +73,10 @@ Figma
   </defs>
 </svg>
 ```
-# OUTPUT:![alt text](<../phe/app/static/Screenshot 2025-10-07 224856.png>)![alt text](<../phe/app/static/Screenshot 2025-10-07 224913.png>)![alt text](<../phe/app/static/Screenshot 2025-10-07 224932.png>)![alt text](<../phe/app/static/Screenshot 2025-10-07 224945.png>)
+# OUTPUT:
+![alt text](<Screenshot 2025-10-07 224856.png>)
+![alt text](<Screenshot 2025-10-07 224913.png>)
+![alt text](<Screenshot 2025-10-07 224932.png>)
+![alt text](<Screenshot 2025-10-07 224945.png>)
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
